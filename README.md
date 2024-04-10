@@ -4,6 +4,15 @@ dsa project mit Fahrrädern und und guten Routen über Ampeln
 
 # ziel des projekts
 Ziel des Projektes ist eine bewertung verschieddener Fahrradwege anhand von Ampelschaltungen.
+Welche Strecke ist die, mit den kürzmöglichsten rotphasen für Fahrradfahrer.
+
+Marker für Gefahr(zB. Fahrradweg in entgegengesetzte Richtung), Marker für ausgewiesene Fahrradwege.
+
+Ergebnis:
+Streckenlänge zB 12km
+Dauer pro Strecke zB 6 min +- 34s
+bei geschwindigkeit zB 10km/h  30km/h
+weg marker zB 300m gegenverkehr
 
 # hintergrund
 
