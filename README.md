@@ -17,3 +17,9 @@ Es gibt viele navigationssysteme, die routenplanung für fahrradfahrer ermöglic
 |  Ampeldaten der Stadt |  PDFs | korrekt, vollständig  |   |   |
 |   |   |   |   |   |
   
+# Aufgabenstellung
+
+|Abgabe|Frist|Erwartungen|
+|Projektskizze|15.05.2024|Projektskizze, Beschreibung der Problematik, Hintergrund, Projektziele, erste technische Dokumentation (Architektur-Diagramme, mögliche Datenquellen, Auswahl der Quellen)|
+|Codeprojekt + Dokumentation|12.06.2024|Link zu Github-Repository, Dokumentation kann in der ReadMe aufgeführt und aktualisiert werden oder auch in einem zusätzlichen Dokument (PDF)|
+|Codeprojekt + Dokumentation + Abschlusspräsentation|03.07.2024|Link zu Github-Repository, Dokumentation entweder finalisiert in der ReadMe oder in einem zusätzlichen Dokument (PDF) Powerpoint, (10 Minuten Präsentation)|
