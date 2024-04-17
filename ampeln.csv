@@ -1,8 +1,8 @@
-AmpelId, Straßennamen, kommentar
-31, Neckarauerstr-Rampenweg, buzzer
-32, Viehhofstraße-Schwetzingerstr., 4 querungen
-33, Reichskanzler-Müller-Str.-Traitteurstr., 2 querungen
-34, Reichskanzler-Müller-Str.-Kopernikusstr.,
-35, Reichskanzler-Müller-Str.-Keplerstr.,
-36, Reichskanzler-Müller-Str.-Heinrich-Lanz-Str.,
-37, Reichskanzler-Müller-Str.-Tattersalstr.,
+AmpelId, VtuId Straßennamen, kommentar
+31, 327, Neckarauerstr-Rampenweg, buzzer
+32, 178, Viehhofstraße-Schwetzingerstr., 4 querungen
+33, 115, Reichskanzler-Müller-Str.-Traitteurstr., 2 querungen
+34, 114, Reichskanzler-Müller-Str.-Kopernikusstr.,
+35, 113, Reichskanzler-Müller-Str.-Keplerstr.,
+36, 112, Reichskanzler-Müller-Str.-Heinrich-Lanz-Str.,
+37, 111, Reichskanzler-Müller-Str.-Tattersalstr.,
