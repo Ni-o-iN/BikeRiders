@@ -1,4 +1,10 @@
-AmpelId, VtuId Straßennamen, kommentar
+AmpelId, VtuId, Straßennamen, kommentar
+11, 316, John-Deere-Straße / Paul-Wittsack-Straße / Emil-Heckel-Straße,
+12, 321, John-Deere-Straße / Große Holzgasse,
+13, 302, John-Deere-Straße / Glücksteinallee / Landteilstraße,
+14, 305, Glücksteinallee / Gontardstraße,
+15, 2310, Glücksteinallee / Am Victoria-Turm,
+16, 118, Helmut-Schmidt-Brücke / Kaiserring, Straßenbahnkreuzung zu Straßenbahnhaltestelle Hbf
 31, 327, Neckarauerstr-Rampenweg, buzzer
 32, 178, Viehhofstraße-Schwetzingerstr., 4 querungen
 33, 115, Reichskanzler-Müller-Str.-Traitteurstr., 2 querungen
@@ -6,3 +12,9 @@ AmpelId, VtuId Straßennamen, kommentar
 35, 113, Reichskanzler-Müller-Str.-Keplerstr.,
 36, 112, Reichskanzler-Müller-Str.-Heinrich-Lanz-Str.,
 37, 111, Reichskanzler-Müller-Str.-Tattersalstr.,
+41, 327/328, Hochschule Mannheim Neckarauer Straße,
+42, 180, Neckarauer Straße Richtung Nerckarauer Übergang,
+43, 178, Viehhofstraße-Schwetzingerstr(aka Möhlstraße - Reichskanzler Müller Straße),
+44, 115, Traitteurstraße - Reichskanzler Müller Straße,
+45, 114, Kopernikusstraße - Reichskanzler Müller Straße,
+46, 113, Keplerstraße - Reichskanzler Müller Straße,
