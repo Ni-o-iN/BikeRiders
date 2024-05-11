@@ -30,6 +30,9 @@ Es gibt viele Navigationssysteme, die Routenplanung für Fahrradfahrer ermöglic
 | Fahrradzähler der Stadt  |  Wenige Messpunkte (ca.10),  weit verteilt, teiweise geringe Zahlen | viele Daten über langen Zeitraum  |   |   |
 |  Ampeldaten der Stadt |  PDFs | korrekt, vollständig, Daten müssen jedoch händisch übertragen werden  |   |   |
 |   |   |   |   |   |
+
+# Geplante Routen
+![Bild mit den 4 zu betrachtenden Routen](https://github.com/eg-00/dsa/blob/main/Routen.png)
   
 # Aufgabenstellung
 
