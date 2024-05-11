@@ -1,7 +1,7 @@
 # DSA - Team BikeRiders, Thema Fahrradroutenoptimierung
 Projekt für die Vorlesung Data Science and Analytics (DSA) zur Überprüfung von guten Routen für Fahrradfahrer in Bezug auf Sicherheit und Vermeidung von langen Ampelwartezeiten zu unterschiedlichen Tageszeiten.
 
-# Table of Contents  
+# Inhalt 
 [Mitglieder](#mitglieder) 
 
 [Ziel des Projekts](#ziel-des-projekts)
