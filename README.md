@@ -29,7 +29,7 @@ Es gibt viele Navigationssysteme, die Routenplanung für Fahrradfahrer ermöglic
 |---|---|---|---|---|
 | Fahrradzähler der Stadt  |  wenige messpunkte (ca.10),  weit verteilt, teiweise geringe zahlen | viele Daten über langen zeitraum  |   |   |
 |  Ampeldaten der Stadt |  PDFs | korrekt, vollständig  |   |   |
-|   |   |   |   |   |
+|  Verkehrszähler der Stadt | Hauptsächlich PKW/LKW, nur an einzelnen Kreuzungen |Stündliche Messpunkte| ungenaue Fahrradzahlen|   |
   
 # Aufgabenstellung
 
