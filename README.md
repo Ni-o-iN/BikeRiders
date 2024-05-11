@@ -8,7 +8,7 @@ Die Daten der Ampelschaltungen wurden freundlicherweise von der Verkehrsleitzent
 Es soll festgestellt werden, welche der vier ausgewählten Strecken die Optimale ist.
 Hierfür werden die kürztmöglichsten Rotphasen für Fahrradfaher ermittelt. Es werden die minimalen und maximalen Längen der Grün- und Rotphasen ermittelt, um einen Mittelwert der Ampelzyklen zu ermitteln.
 
-Weiterhin werden Gefahren auf dem Weg (zB. Fahrradweg in entgegengesetzte Richtung, Überquerung von Straßenbahnschienen), sowie ausgewiesene Fahrradwege berücksichtigt. Diese spielen einen Rolle in der Bewertung der Fahrradrouten.
+Weiterhin werden Gefahren auf dem Weg (zB. Fahrradweg in entgegengesetzte Richtung, Überquerung von Straßenbahnschienen), sowie ausgewiesene Fahrradwege berücksichtigt. Diese spielen in der Bewertung der Fahrradrouten einen Rolle.
 
 Ergebnis:
 - Eingabe der Durchschnittsgeschwindigkeit
@@ -25,14 +25,21 @@ Es gibt viele Navigationssysteme, die Routenplanung für Fahrradfahrer ermöglic
 
 # Mögliche Datenquellen
 
-|   | Negativ  | Positiv | Bias |  Kommentar | Link |
+|   | Negativ  | Positiv | Bias | Link |
 |---|---|---|---|---|---|
-| Fahrradzähler der Stadt (Eco Counter)  |  Wenige Messpunkte (ca.10),  weit verteilt, teiweise geringe Zahlen | Viele Daten über langen Zeitraum  | Es werden nicht alle Fahrradfahrer erfasst, Richtung kann nicht unterschieden werden | | https://mannheim.opendatasoft.com/explore/?sort=modified&q=eco+counter |
-|  Ampeldaten der Stadt |  PDFs, Daten müssen jedoch händisch übertragen werden | korrekt, vollständig  | Es sagt nichts über die aktuelle Verkehrslage aus, ist nur die Darstellung eines Optimalzustands | | https://github.com/eg-00/dsa/tree/main/daten |
-| Verkehrszähler der Stadt | 	Hauptsächlich PKW/LKW, nur an einzelnen Kreuzungen |	Stündliche Messpunkte ,ungenaue Fahrradzahlen | |  | https://opendata.smartmannheim.de/dataset/?organization=smart-mannheim |
+| Fahrradzähler der Stadt (Eco Counter)  |  Wenige Messpunkte (ca.10),  weit verteilt, teiweise geringe Zahlen | Viele Daten über langen Zeitraum  | Es werden nicht alle Fahrradfahrer erfasst, Richtung kann nicht unterschieden werden | https://mannheim.opendatasoft.com/explore/?sort=modified&q=eco+counter |
+|  Ampeldaten der Stadt |  PDFs, Daten müssen jedoch händisch übertragen werden | korrekt, vollständig  | Es sagt nichts über die aktuelle Verkehrslage aus, ist nur die Darstellung eines Optimalzustands | https://github.com/eg-00/dsa/tree/main/daten |
+| Verkehrszähler der Stadt | 	Hauptsächlich PKW/LKW, nur an einzelnen Kreuzungen |	Stündliche Messpunkte, ungenaue Fahrradzahlen | Fokus auf Autofahrer, Fahrradfahrer nur ein Nebenprodukt | https://opendata.smartmannheim.de/dataset/?organization=smart-mannheim |
 
 # Geplante Routen
 ![Bild mit den 4 zu betrachtenden Routen](https://github.com/eg-00/dsa/blob/main/Routen.png)
+
+# Datensammlung für Ampelschaltungen
+In folgender Google Spreadsheet Datei sind die Schaltdaten aller relevanten Ampeln der unterschiedlichen festgelegten Routen zu finden. Diese wurden extrahiert aus der Datenquelle "Ampeldaten der Stadt".
+
+https://docs.google.com/spreadsheets/d/1XgsFw8Fynec__njbpKFC4uT_02T9ustbVmKGRoTAr60/edit?usp=sharing
+
+
   
 # Aufgabenstellung
 
