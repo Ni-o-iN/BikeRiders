@@ -23,12 +23,12 @@ Ergebnis:
 
 Es gibt viele Navigationssysteme, die Routenplanung für Fahrradfahrer ermöglichen. Dabei gibt es für Fahrradfahrer oft ein Problem bei Ampeln, die auf andere Geschwindigkeiten optimiert sind. Eine Grüne Welle ist meist für Autofahrer ausgelegt und nicht für Fahrradfahrer nutzbar. Das führt bei Fahrradfahrern zu längeren Wegzeiten bei kürzerer Strecke. Das Problem besteht hauptsächlich bei erlaubten Geschwindigkeiten von über 30 km/h (meist 50km/h), da Fahrradfahrer diese Geschwindigkeiten meist nicht über längere Zeit halten können.
 
-# mögliche Datenquellen
+# Mögliche Datenquellen
 
-|   | negativ  | positiv |  kommentar |   |
+|   | Negativ  | Positiv |  Kommentar |   |
 |---|---|---|---|---|
-| Fahrradzähler der Stadt  |  wenige messpunkte (ca.10),  weit verteilt, teiweise geringe zahlen | viele Daten über langen zeitraum  |   |   |
-|  Ampeldaten der Stadt |  PDFs | korrekt, vollständig  |   |   |
+| Fahrradzähler der Stadt  |  Wenige Messpunkte (ca.10),  weit verteilt, teiweise geringe Zahlen | viele Daten über langen Zeitraum  |   |   |
+|  Ampeldaten der Stadt |  PDFs | korrekt, vollständig, Daten müssen jedoch händisch übertragen werden  |   |   |
 |   |   |   |   |   |
   
 # Aufgabenstellung
