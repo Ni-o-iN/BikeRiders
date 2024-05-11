@@ -42,7 +42,7 @@ Unter Berücksichtigung unserer Bedürfnisse und Ziele haben wir uns entschieden
 Die Entscheidung, die anderen zwei Datenquellen nicht zu nutzen, basiert auf ihrer Unzuverlässigkeit. Diese Quellen liefern zu ungenaue Daten, da sie teilweise auch Autos mitzählen könnten, und die genaue Zusammensetzung der erfassten Daten nicht transparent ist. Zudem stellten wir fest, dass die Daten von Kreuzungen, die zu weit voneinander entfernt liegen, keine kohärenten Informationen bieten. An diesen Kreuzungen waren nur eine Handvoll Fahrradfahrer unterwegs, was die Datensätze für unsere Zwecke als nicht besonders relevant erscheinen ließ. Daher haben wir uns entschieden, uns voll und ganz auf die präzisen und relevanten Daten der Verkehrsleitzentrale zu konzentrieren, um die Qualität und Genauigkeit unserer Analysen sicherzustellen.
 
 # Geplante Routen
-![Bild mit den 4 zu betrachtenden Routen](https://github.com/eg-00/dsa/blob/main/Routen.png)
+![Bild mit den 4 zu betrachtenden Routen](/bilder/Routen.png)
 
 Hellgrüne Route: Verläuft südlich an den Bahnschienen, beinhaltet einen Abschnitt, an dem das Fahrrad die Treppen der Bahnhofsunterführung heruntergetragen werden muss 
 
