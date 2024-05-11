@@ -26,7 +26,7 @@ Es gibt viele Navigationssysteme, die Routenplanung für Fahrradfahrer ermöglic
 # Mögliche Datenquellen
 
 |   | Negativ  | Positiv | Bias |  Kommentar | Link |
-|---|---|---|---|---|
+|---|---|---|---|---|---|
 | Fahrradzähler der Stadt (Eco Counter)  |  Wenige Messpunkte (ca.10),  weit verteilt, teiweise geringe Zahlen | Viele Daten über langen Zeitraum  | Es werden nicht alle Fahrradfahrer erfasst, Richtung kann nicht unterschieden werden | | https://mannheim.opendatasoft.com/explore/?sort=modified&q=eco+counter |
 |  Ampeldaten der Stadt |  PDFs, Daten müssen jedoch händisch übertragen werden | korrekt, vollständig  | Es sagt nichts über die aktuelle Verkehrslage aus, ist nur die Darstellung eines Optimalzustands | | https://github.com/eg-00/dsa/tree/main/daten |
 | Verkehrszähler der Stadt | 	Hauptsächlich PKW/LKW, nur an einzelnen Kreuzungen |	Stündliche Messpunkte ,ungenaue Fahrradzahlen | |  | https://opendata.smartmannheim.de/dataset/?organization=smart-mannheim |
