@@ -57,6 +57,10 @@ In folgender Google Spreadsheet Datei sind die Schaltdaten aller relevanten Ampe
 
 https://docs.google.com/spreadsheets/d/1XgsFw8Fynec__njbpKFC4uT_02T9ustbVmKGRoTAr60/edit?usp=sharing
 
+# Ablaufdiagram
+
+![Ablauf](/bilder/Ablaufdiagram.png)
+
 # Auswahl der Programmiersprache
 Unser Team hat sich nach eingehender Analyse dafür entschieden, Python als Hauptprogrammiersprache für unser Data Science and Analytics (DSA)  zu verwenden, da wir in der Gruppe die meiste Erfahrung mit dieser Sprache haben. Wir sind mit den Python-Bibliotheken, unteranderem Pandas und NumPy, vertraut, die sich gut für die Datenverarbeitung und Analyse eignen. Zudem bietet Python eine ausgezeichnete Balance zwischen Leistung, Flexibilität und Benutzerfreundlichkeit.
 
