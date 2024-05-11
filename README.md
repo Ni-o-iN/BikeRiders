@@ -2,14 +2,22 @@
 Projekt für die Vorlesung Data Science and Analytics (DSA) zur Überprüfung von guten Routen für Fahrradfahrer in Bezug auf Sicherheit und Vermeidung von langen Ampelwartezeiten zu unterschiedlichen Tageszeiten.
 
 # Table of Contents  
-[Mitglieder](#mitglieder)  
+[Mitglieder](#mitglieder) 
+
 [Ziel des Projekts](#ziel-des-projekts)
+
 [Hintergrund](#hintergrund)  
+
 [Mögliche Datenquellen](#mögliche-datenquellen)
+
 [Verwendete Datenquelle](#verwendete-datenquelle)
+
 [Geplante Routen](#geplante-routen)  
+
 [Datensammlung für Ampelschaltungen](#datensammlung-für-ampelschaltungen)
+
 [Ablaufdiagram](#ablaufdiagramm)  
+
 [Auswahl der Programmiersprache](#auswahl-der-programmiersprache)
 
 # Mitglieder:
