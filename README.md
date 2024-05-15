@@ -4,9 +4,9 @@ Projekt für die Vorlesung Data Science and Analytics (DSA) zur Überprüfung vo
 # Inhalt 
 [Mitglieder](#mitglieder) 
 
-[Ziel des Projekts](#ziel-des-projekts)
+[Hintergrund und Beschreibung der Problematik](#hintergrund-und-beschreibung-der-problematik)  
 
-[Hintergrund](#hintergrund)  
+[Ziel des Projekts](#ziel-des-projekts)
 
 [Mögliche Datenquellen](#mögliche-datenquellen)
 
@@ -26,6 +26,12 @@ Projekt für die Vorlesung Data Science and Analytics (DSA) zur Überprüfung vo
 - Kai Winnemann 2021106
 - Kim Mennemann 2011879
 
+# Hintergrund und Beschreibung der Problematik
+
+Es gibt viele Navigationssysteme, die Routenplanung für Fahrradfahrer ermöglichen. Dabei gibt es für Fahrradfahrer oft ein Problem bei Ampeln, die auf andere Geschwindigkeiten optimiert sind. Eine "Grüne Welle" ist meist für Autofahrer ausgelegt und nicht für Fahrradfahrer nutzbar. Das führt bei Fahrradfahrern zu längeren Wegzeiten bei kürzerer Strecke. Das Problem besteht hauptsächlich bei erlaubten Geschwindigkeiten von über 30 km/h (meist 50km/h), da Fahrradfahrer diese Geschwindigkeiten meist nicht über längere Zeit halten können.
+
+Unsere Arbeit zielt darauf ab, für einen beispielhaften Start- und Zielpunkt die optimale Route zu finden. Insbesondere sind hierbei die Ampelphasen von Interesse, da diese der Grund für längere Warte- und Stoppzeiten auf der Strecke sind.
+
 # Ziel des Projekts
 Ziel des Projektes ist die Bewertung verschiedener Fahrradrouten von der Hochschule Mannheim zum Mannheimer Hauptbahnhof anhand von Ampelschaltungen.
 Die Daten der Ampelschaltungen wurden freundlicherweise von der Verkehrsleitzentrale der Stadt Mannheim zur Verfügung gestellt.
@@ -42,12 +48,6 @@ Erwünschtes Ergebnis:
   - Dauer pro Strecke, z.B. 6 min +- 34s
   - Geschwindigkeit des Fahrradfahrers, z.B. 10km/h oder 30km/h
   - Gefahren auf dem Weg, bzw. Merkmale des Weges, z.B. 300m gegen die Einbahnstraße fahren, vorhandene Fahrradwege
-
-# Hintergrund
-
-Es gibt viele Navigationssysteme, die Routenplanung für Fahrradfahrer ermöglichen. Dabei gibt es für Fahrradfahrer oft ein Problem bei Ampeln, die auf andere Geschwindigkeiten optimiert sind. Eine "Grüne Welle" ist meist für Autofahrer ausgelegt und nicht für Fahrradfahrer nutzbar. Das führt bei Fahrradfahrern zu längeren Wegzeiten bei kürzerer Strecke. Das Problem besteht hauptsächlich bei erlaubten Geschwindigkeiten von über 30 km/h (meist 50km/h), da Fahrradfahrer diese Geschwindigkeiten meist nicht über längere Zeit halten können.
-
-Unsere Arbeit zielt darauf ab, für einen beispielhaften Start- und Zielpunkt die optimale Route zu finden. Insbesondere sind hierbei die Ampelphasen von Interesse, da diese der Grund für längere Warte- und Stoppzeiten auf der Strecke sind.
 
 # Mögliche Datenquellen
 
